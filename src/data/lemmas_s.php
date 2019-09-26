@@ -1,1 +1,1 @@
-<?php $lemma_map = ['stadtrechnung'=>'Rechnungsbuecher', 'stadtrechnungen'=>'Rechnungsbuecher', 'schoeffenprotokolle'=>'Protokolle',];
+<?php $lemma_map = ['stadtrechnung'=>'Rechnungsbuecher', 'stadtrechnungen'=>'Rechnungsbuecher', 'schoeffenprotokolle'=>'Protokolle','schoeffenprotokollen'=>'Protokolle',];
